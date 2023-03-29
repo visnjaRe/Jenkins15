@@ -1,0 +1,42 @@
+Operators:
+    Operators are different symbols that we can use to perform operations like addition,
+    substractions we can compare things  if two entities are same or not,
+     if a number is greater than the other number or not.
+
+     There are three main types of operators.
+     1. ARITHMATIC OPERATORS(+,-,/,*,% - modulus(we use it for remainder)
+     2. REALTIONAL OPERATORS (we use them to compare two things, we cant use them for springs
+     exmpl: if something is bigger than other thing, or if two numbers are same or not,
+     if two boolean variables contain same values or not)
+     == => used to check if two variables contain the same value or not if same we get true, if not we get false
+     != => if two variables dont contain the same value. we get true if they are not the same
+     > => if one value is greater than other value or not, if greater we get a true.
+     < => used to check if the value on the left is smaller than the value on the right
+     >= => if the values on left is greater than the value on right side or if they are the same we will get true
+     <= => it opposite of >= and used it to check if something is less than or equal to other thing
+
+     Conditional constructs
+     ***IfElse
+     Used to write conditional code. A piece of code that execute based on a condition is true that java execute the code
+     otherwise it skips that code.
+     How to write ifElse condition:
+
+     if(condition){
+any line of code ** you can write another condition inside of this condition***
+
+if() {
+
+}
+
+// equals method is only used for non-primitives
+IMPORTANT:
+for String we use equals method instead of === sign bc it`s a non-primitive data type
+
+
+     }
+
+
+
+
+
+     3. LOGICAL OPERATORS

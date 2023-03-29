@@ -1,0 +1,29 @@
+Data types; char,String, boolean,
+
+we use boolean to store yes or no, true or false
+
+to store whole numbers we have 4 types of boxes:
+Byte= small number -128 to 127
+Short = for larger number max number 32767
+Int = used 90% of time,most used one
+Long = at the end put L
+
+ if we want to store decimal numbers in com memory using java we can use next boxes.
+        float
+        decimal
+
+
+to write something in java first type MAIN
+to print something in java type SOUT
+to create boxes INT=
+to write short comments on what we are working //
+to write longer comments use /* */
+
+if we have to store whole numbers use int
+if we have to store decimals always use double
+if you have to store character always use String
+
+
+Java follows rules for naming things like classes and boxes(variables)
+1)while naming a class first letter of each work is always UPPERCASE
+2)while naming variables or boxes first letter of first word is always lowercase, second word Uppercase
